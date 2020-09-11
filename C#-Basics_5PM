@@ -1,0 +1,14 @@
+C# - Programming:
+
+1. Visual Studio Code
+2. C# extensions- Installed in VS Code
+3. .Net Core SDK- Installed 
+
+
+First Program of C# in VS Code:
+
+1. Parent Folder: Program_5PM
+2. mkdir(make directory) PrintYourName
+3. cd(Change Directory) PrintYourName
+4. dotnet new console
+5. dotnet run
